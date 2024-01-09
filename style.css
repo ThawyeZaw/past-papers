@@ -4,7 +4,7 @@
 }
 .choose{
   margin: 0.5em 1em;
-  font-size: 1.2em;
+  font-size: 2em;
 }
 .smallTd {
 	font-size: 35px;
@@ -61,8 +61,12 @@ select {
   border-radius: 8px;
   background: #000000;
   color: #ffffff;
-  padding: 0.2em 0.5em;
-  font-size: 1rem;
+  padding: 0.3em 0.6em;
+	margin-bottom: 0.4em;
+  font-size: 1.2rem;
+}
+option{
+	font-size: 0.8rem;
 }
 
 .toTop {
@@ -73,7 +77,8 @@ select {
 	right: 0;
 	margin: 1em;
 	aspect-ratio: 1/1;
-	padding: 1vw;
+	padding: 2vw;
+	font-size: 1.5rem;
 	line-height: 100%;
 	vertical-align: middle;
 	border-radius: 100%;
